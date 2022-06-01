@@ -27,4 +27,4 @@ public class divideTestexception {
 	        }
 	    }
 		/*EL PROGRAMA VA A RECOGER LA EXCEPCIÓN CUANDO SE DIVIDA ENTRE 0*/
-}
+} 
